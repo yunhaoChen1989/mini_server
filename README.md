@@ -62,7 +62,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 - 1, add authrization
 - 2, support https
 - 3, show video thumbnail
-- 4, photo preview
+- 4, video preview
 
 ## Contact
 If you have any questions or feedback, please feel free to contact me at w0847446@myscc.ca
