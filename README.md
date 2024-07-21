@@ -38,7 +38,8 @@
 
 ## Screenshots
 
-![1721569496086](https://github.com/user-attachments/assets/e61ed6bb-16d2-42b9-971d-511b6494c865)
+![1721569496086](https://github.com/user-attachments/assets/c8af7650-19cc-4080-8856-7eab52977b52)
+
 
 ![Screenshot_20240721-214422](https://github.com/user-attachments/assets/be476cce-b801-4997-99c8-b8a0685ffe37)
 
